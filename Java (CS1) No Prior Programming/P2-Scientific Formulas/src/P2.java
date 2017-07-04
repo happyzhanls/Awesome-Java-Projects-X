@@ -1,7 +1,19 @@
-/* 
- * 	
+/* A small scientific formula implementation using scanner(System.in).
+ * 
+ * At first, it takes the radius of the circle as input on the console window
+ * and prints the circumference, area and volume of the circle separately as outputs. 
+ * Secondly, it takes the mass as the input and prints the energy on the console 
+ * window as the output using the famous formula E=MC^2.
+ * 
+ * Example:
+ * Radius? 1.0
+ * The circumference is 6.28319.
+ * The area is 3.14159.
+ * The volume is 4.18879.
+ * 
+ * Mass? 1.0
+ * The energy is 89875517873681760.0 joules.
  */	
-
 
 import java.util.Scanner;
 

@@ -1,0 +1,5 @@
+# squares.txt
+
+SQUARE,99FD77,100,400,100,filled
+SQUARE,FF800D,200,400,100,filled
+SQUARE,FE8BF0,300,400,100,filled

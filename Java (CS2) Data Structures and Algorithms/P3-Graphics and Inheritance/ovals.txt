@@ -1,0 +1,6 @@
+# ovals.txt
+
+OVAL,62A9FF,10,50,80,30,outline
+OVAL,F900F9,450,50,80,30,filled
+OVAL,74FEF8,450,500,80,30,outline
+OVAL,F7DE00,10,500,80,30,filled

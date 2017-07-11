@@ -1,0 +1,5 @@
+# text.txt
+
+TEXT,FF79E1,Programming is Fun,220,240,TimesRoman,15
+TEXT,44B4D5,Java Rules!,240,270,TimesRoman,25
+TEXT,0AFE47,Computer Science,230,300,TimesRoman,15

@@ -1,0 +1,20 @@
+digraph BST {
+    ratio = 1.0;
+    node [style=filled]
+    node [fontname=Arial]
+    edge [arrowType=normal]
+    edge [fillcolor=orchid]
+    rootLL[label="3";shape=circle;fillcolor=lightseagreen]
+    rootLR[label="5";shape=circle;fillcolor=lightseagreen]
+    rootL [label="*";shape=square;fillcolor=lightskyblue]
+    rootL -> rootLL
+    rootL -> rootLR
+    rootRL[label="6";shape=circle;fillcolor=lightseagreen]
+    rootRR[label="2";shape=circle;fillcolor=lightseagreen]
+    rootR [label="/";shape=square;fillcolor=lightskyblue]
+    rootR -> rootRL
+    rootR -> rootRR
+    root [label="+";shape=square;fillcolor=lightskyblue]
+    root -> rootL
+    root -> rootR
+}

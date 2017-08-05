@@ -4,8 +4,6 @@
 // Class:  CS165
 // Email:  wilcox@cs.colostate.edu
 
-// NOTE: Leave the package declaration like this:
-// package cs165;
 
 import java.io.IOException;
 import java.io.PrintWriter;
